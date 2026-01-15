@@ -3,7 +3,7 @@ title: "Neuropathological Correlates of Volume and Shape of Deep Gray Matter Str
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Using ex-vivo MRI and autopsy data from 842 older adults (Rush Alzheimer’s Disease Center), we mapped how common neuropathologies independently affect deep gray matter volume and shape.'
 date: 2025-07-01
 venue: 'Human Brain Mapping'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
