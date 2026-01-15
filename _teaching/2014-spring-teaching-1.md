@@ -1,5 +1,5 @@
 ---
-title: "BME 553 Neuroimaging (Graduate Teaching Assistant)"
+title: "Graduate Teaching Assistant"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
