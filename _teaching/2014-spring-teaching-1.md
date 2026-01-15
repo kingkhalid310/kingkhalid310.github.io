@@ -23,13 +23,8 @@ Supported graduate students in **BME 553: Neuroimaging** through office hours, p
 - fMRI acquisition and analysis concepts  
 - Diffusion MRI / DTI metrics (e.g., FA, MD)  
 - Tractography and white-matter pathway interpretation
+- fMRI preprocessing and first-level GLM concepts (SPM, where applicable)
 
-
-Heading 1
-======
-
-Heading 2
-======
 
 Heading 3
 ======
