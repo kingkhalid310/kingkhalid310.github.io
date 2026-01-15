@@ -9,8 +9,8 @@
 
 main:
   - title: "Publications"
-    # url: /publications/
-    url: https://scholar.google.com/citations?user=Lm8KUcYAAAAJ&hl=en&authuser=1
+    url: /publications/
+    # url: https://scholar.google.com/citations?user=Lm8KUcYAAAAJ&hl=en&authuser=1
 
   - title: "Talks"
     url: /talks/    
@@ -21,12 +21,12 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
-    # url: /cv/
-    url: /files/CV-KhalidSaifullah.pdf
+    url: /cv/
+    # url: /files/CV-KhalidSaifullah.pdf
     
   # - title: "CV"
   #   url: /cv-json/
