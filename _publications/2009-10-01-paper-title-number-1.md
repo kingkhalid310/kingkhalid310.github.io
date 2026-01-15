@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Neuropathological Correlates of Volume and Shape of Deep Gray Matter Structures in Community-Based Older Adults"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2025-07-01
+venue: 'Human Brain Mapping'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://pubmed.ncbi.nlm.nih.gov/40580018/)'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Age-related neurodegenerative and cerebrovascular neuropathologies often coexist in the brain of older adults and contribute to brain abnormalities, cognitive decline and dementia. While deep gray matter structures are implicated early and/or strongly in these processes, the independent effects of various age-related neuropathologies on these structures remain poorly understood. The goal of this study was to investigate the independent association of various age-related neuropathologies with the volume and shape of deep gray matter structures in a large number of community-based older adults that came to autopsy. Cerebral hemispheres from 842 participants of four community studies at the Rush Alzheimer's Disease Center were imaged with MRI ex vivo and underwent detailed neuropathologic examination. Linear regression was used to study the association of various neuropathologies with the volume and shape of six deep gray matter structures (hippocampus, amygdala, caudate, thalamus, nucleus accumbens, putamen) controlling for age at death, sex, years of education, scanner, and postmortem intervals. Both the volumetric and shape analyses showed independent associations of tangles with structural abnormalities in all deep brain structures, of limbic-predominant age-related TDP-43 encephalopathy neuropathological change (LATE-NC) with hippocampus and amygdala, of atherosclerosis with hippocampus, and of gross infarcts with caudate (all p < 0.05 corrected for multiple comparisons). Shape analysis revealed the corresponding independent spatial patterns of inward deformation and also showed additional associations of neuropathologies with deep brain structures (p < 0.05 corrected for multiple comparisons). When analyses were repeated in left and right hemispheres separately, the results were mostly similar in both hemispheres. Mixed pathologies are very common in the older adult brain and the present comprehensive study disentangles their independent effects on multiple deep gray matter structures. These neuropathologic signatures may potentially be used in combination with other features toward in vivo prediction of neuropathologies which could have important implications in future clinical trials and the development of prevention and treatment strategies.
