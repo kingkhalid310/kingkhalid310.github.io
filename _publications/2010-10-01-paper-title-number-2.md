@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Brain Morphometry Patterns in the Presence of Alzheimer’s and/or Limbic-Predominant Age-Related TDP-43 Encephalopathy (LATE) Neuropathology"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
