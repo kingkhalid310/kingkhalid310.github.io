@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I’m a PhD candidate in **Biomedical Engineering (Medical Imaging)** at **Illinois Institute of Technology**. I work with **Prof. Konstantinos Arfanakis** and the **Rush Alzheimer’s Disease Center** to study age-related neuropathologies.
 
 My research focuses on **autopsy-validated MRI, PET, and blood-based biomarkers** to characterize:
