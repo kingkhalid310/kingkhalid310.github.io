@@ -7,7 +7,7 @@ excerpt: 'Using ex-vivo MRI and autopsy data from 842 older adults (Rush Cohort)
 date: 2025-07-01
 venue: 'Human Brain Mapping'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://pubmed.ncbi.nlm.nih.gov/40580018/)'
+paperurl: https://pubmed.ncbi.nlm.nih.gov/40580018/
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Saifullah K, Makkinejad N, Yasar MT, et al. Neuropathological Correlates of Volume and Shape of Deep Gray Matter Structures in Community-Based Older Adults. Hum Brain Mapp. 2025;46(10):e70273. doi:10.1002/hbm.70273.'
 ---
