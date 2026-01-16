@@ -2,7 +2,7 @@
 title: "Lecturer"
 collection: teaching
 type: "Faculty"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2018-fall-teaching-1
 venue: "Eastern University, Department of Electrical and Electronic Engineering"
 date: 2018-09-01
 location: "Dhaka, Bangladesh"
