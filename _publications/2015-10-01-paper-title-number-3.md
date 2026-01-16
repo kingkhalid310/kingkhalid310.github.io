@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-4-01-paper-title-number-3
 excerpt: 'Manuscript in Preparation.'
-date: 2015-10-01
+date: 2026-4-01
 venue: # 'Journal 1'
 slidesurl: # 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: # 'https://academicpages.github.io/files/paper3.pdf'
