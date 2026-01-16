@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Morphometry Patterns of Azheimer's and LATE Neuropathology<br />ISMRM 2024, Singapore; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Morphometry Patterns of Alzheimer's and LATE Neuropathology<br />International Society for Magnetic Resonance in Medicine (ISMRM) 2024; Singapore",
+    1.357107,
+    103.8194992
   ]
 ];
