@@ -1,13 +1,13 @@
 ---
-title: "Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology"
+title: "Neurofibrillary Tangles Prediction Based on MRI"
 collection: publications
 category: conferences
-permalink: /publication/2024-07-28-paper-title-number-4
+permalink: /publication/2022-07-31-paper-title-number-4
 excerpt: "Oral Presentation"
-date: 2024-07-28
+date: 2022-07-31
 venue: "Alzheimer's Association International Conference (AAIC)"
-paperurl: https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
-citation: 'Saifullah, Khalid et al. “Investigating Spatial Characteristics of Brain Atrophy in Alzheimer''s and LATE neuropathology.” Alzheimer''s & Dementia 20(Suppl 9): e093770. 9 Jan 2025. doi:10.1002/alz.093770.'
+paperurl: https://alz.confex.com/alz/2022/meetingapp.cgi/Paper/66142
+citation: 'Saifullah, K., et al. Neurofibrillary Tangles Prediction Based on MRI. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 31 - Aug 4, 2022, San Diego, CA, USA.'
 ---
 
-•	Saifullah, K., et al. Investigating spatial characteristics of brain atrophy in Alzheimer’s and LATE neuropathology. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 28 - Aug 1, 2024, Philadelphia, PA, USA.
+•	Saifullah, K., et al. Neurofibrillary Tangles Prediction Based on MRI. Alzheimer’s Association International Conference (AAIC), Oral Presentation, July 31 - Aug 4, 2022, San Diego, CA, USA.
