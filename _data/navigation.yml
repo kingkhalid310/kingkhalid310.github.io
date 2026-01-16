@@ -13,10 +13,10 @@ main:
     # url: https://scholar.google.com/citations?user=Lm8KUcYAAAAJ&hl=en&authuser=1
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
   # - title: "Portfolio"
   - title: "Projects"
