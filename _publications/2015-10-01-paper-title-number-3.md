@@ -3,7 +3,7 @@ title: "An MRI-based in-vivo marker of neurofibrillary tangles"
 collection: publications
 category: inreview
 permalink: /publication/2026-4-01-paper-title-number-2
-excerpt: 'Manuscript in Preparation.'
+excerpt: 'Manuscript In Preparation.'
 date: 2026-4-01
 venue: # 'Brain'
 slidesurl: # 'https://academicpages.github.io/files/slides3.pdf'
