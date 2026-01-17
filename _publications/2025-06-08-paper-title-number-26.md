@@ -7,7 +7,6 @@ excerpt: "Submitted / Under Review"
 date: 2026-05-09
 venue: "International Society for Magnetic Resonance in Medicine (ISMRM)"
 paperurl: #https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
-citation: #'Chowdhury, G. M., Saifullah, K., et al. Association of regional white matter hyperintensities with age-related neuropathologies. ISMRM & ISMRT Annual Meeting & Exhibition, May 9-14, 2026, Cape Town, South Africa.'
+citation: 'Chowdhury, G. M., Saifullah, K., et al. Association of regional white matter hyperintensities with age-related neuropathologies. ISMRM & ISMRT Annual Meeting & Exhibition, May 9-14, 2026, Cape Town, South Africa.'
 ---
 
-•	Chowdhury, G. M., Saifullah, K., et al. Association of regional white matter hyperintensities with age-related neuropathologies. ISMRM & ISMRT Annual Meeting & Exhibition, May 9-14, 2026, Cape Town, South Africa.
