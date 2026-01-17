@@ -87,11 +87,11 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+  inreview:
+    title: 'Journal Articles In Preparation / Submitted / Under Review'
   conferences:
     title: 'Conference Abstracts'
-  inreview:
-    title: 'In Preparation / Submitted / Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
