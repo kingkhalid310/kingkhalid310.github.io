@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I’m a PhD candidate in **Biomedical Engineering (Medical Imaging)** at **Illinois Institute of Technology**. I work with **Prof. Konstantinos Arfanakis** and the **Rush Alzheimer’s Disease Center** to study age-related neuropathologies.
+I am a PhD candidate in **Biomedical Engineering (concentration in Medical Imaging)** at **Illinois Institute of Technology**, working under the supervision of **[Prof. Konstantinos Arfanakis](https://www.iit.edu/directory/people/konstantinos-arfanakis)** in the **[MRIIT](https://www5.iit.edu/~mri/Home.html)** Lab, which is part of the **Medical Imaging & Artificial Intelligence Research Center**, and collaborating with the **[Rush Alzheimer’s Disease Center](https://www.rushu.rush.edu/research-rush-university/departmental-research/rush-alzheimers-disease-center)** on age-related neuropathologies.
 
 My research focuses on **autopsy-validated MRI, PET, and blood-based biomarkers** to characterize:
 - Alzheimer’s disease neuropathologic change (**ADNC**)
@@ -36,5 +36,5 @@ This includes work on:
 
 ## Connect
 
-I’m open to postdoc and research scientist roles in neuroimaging, biomarkers, and clinical ML. If you’re working on multimodal aging/AD cohorts, I’d love to connect.
+I’m now open to postdoc and research scientist roles in neuroimaging, biomarkers, and clinical ML. If you’re working on multimodal aging/AD cohorts, I’d love to connect.
 
