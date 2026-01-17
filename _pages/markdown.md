@@ -9,22 +9,25 @@ redirect_from:
 
 ## Lab Life & Culture
 
-### ISMRM Singapore 2024
-![The team at ISMRM Singapore 2024](images/ISMRM_Singapore_2024.jpeg)
-*Our team attending the ISMRM & ISMRT Annual Meeting in Singapore.*
+<div align="center">
 
-### AAIC 2024 Gathering
-![AAIC 2024 Rush IIT Social](images/AAIC_2024_RUSH_IIT.jpeg)
-*Networking and relaxing at the beer garden during AAIC 2024 (Rush/IIT).*
+  <img src="images/ISMRM_Singapore_2024.jpeg" width="600" />
+  <p><em>The team at the ISMRM Singapore 2024 conference.</em></p>
+  <br>
 
-### Lab Bonding
-![Bowling Night](images/Lab_Fun_Time.jpeg)
-*Team bowling night—taking a break from the lab!*
+  <img src="images/AAIC_2024_RUSH_IIT.jpeg" width="600" />
+  <p><em>Social gathering during AAIC 2024.</em></p>
+  <br>
 
-### Team Dinners
-![Lab Dinner](images/Dinner.jpeg)
-*Celebrating milestones with a team dinner.*
+  <img src="images/Lab_Fun_Time.jpeg" width="600" />
+  <p><em>Lab fun time: Bowling night!</em></p>
+  <br>
 
-### ISMRM Canada 2023
-![ISMRM Canada 2023 Lunch](images/ISMRM_Canada_2023.jpeg)
-*Catching up over lunch during ISMRM 2023 in Toronto.*
+  <img src="images/ISMRM_Canada_2023.jpeg" width="600" />
+  <p><em>Lunch break at ISMRM Toronto 2023.</em></p>
+  <br>
+  
+   <img src="images/Dinner.jpeg" width="600" />
+  <p><em>Team dinner.</em></p>
+
+</div>
