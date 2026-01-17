@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0009-7751-8872"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=khalid+saifullah"
+  pubmed           : "pubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=%22Khalid+Saifullah%22%5BAuthor%5D"
   researchgate     : "https://www.researchgate.net/profile/Khalid-Saifullah?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
