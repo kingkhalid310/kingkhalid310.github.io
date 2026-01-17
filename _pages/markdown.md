@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-!-->
+<!--
 {% include toc %}
 
 ## Locations of key files/directories
@@ -454,3 +454,4 @@ This allows you to denote <var>variables</var>.
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 -->
+
