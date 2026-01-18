@@ -10,10 +10,10 @@ collection: portfolio
 Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC) frequently co-occur in late life, but their *independent vs. combined* neurodegeneration patterns are still being clarified. In this project, we used **voxel-wise deformation-based morphometry (DBM)** on **ex-vivo MRI (N=912)** from a community-based autopsy cohort to map **brain morphometry patterns** across four pathology groups (AD± / LATE±), while **controlling for other comorbid neuropathologies, demographics, and scanner**.
 
 ## Key findings
-- **AD+LATE−** and **AD−LATE+** each showed less tissue primarily in **medial temporal lobe** structures (overlapping signatures).
-- **Mixed AD+LATE+** showed **more widespread** tissue loss across temporal, frontal, and parietal regions—consistent with additive/synergistic neurodegeneration.
+- **AD+LATE-** and **AD−LATE+** each showed less tissue primarily in **medial temporal lobe** structures (overlapping signatures).
+- **Mixed AD+LATE+** showed **more widespread** tissue loss across temporal, frontal, and parietal regions-consistent with additive/synergistic neurodegeneration.
 - **LATE+** was associated with a **smaller anterior hippocampus** compared to AD+ alone, and **LATE stage increases** showed a stronger relationship with hippocampal shrinkage than ADNC severity increases.
-- Patterns were **also present but less pronounced in participants without dementia** (see supplemental figures).
+- Patterns were **also present but less pronounced in participants without dementia**.
 
 ## Resources
 **ISMRM 2024:** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)
