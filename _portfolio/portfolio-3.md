@@ -1,24 +1,32 @@
 ---
-title: "Brain Morphometry Patterns of Mixed AD and LATE"
-excerpt: "Autopsy-confirmed ex-vivo MRI DBM reveals distinct and additive patterns in ADNC and LATE-NC.<br/><img src='/images/DBMAssociationwithADandLATE.png' alt='In-Vivo MRI Tangles Marker visual summary'>"
+title: "Subcortical Volume & Shape Signatures"
+excerpt: "Autopsy-linked ex-vivo MRI reveals pathology-specific volume and shape signatures across deep gray matter structures.<br/><img src='/images/Shapes.png' alt='In-Vivo MRI Tangles Marker visual summary'>"
 collection: portfolio
 ---
 
-<img src="/images/DBMAssociationwithADandLATE.png" alt="Brain Morphometry Patterns of Mixed AD and LATE" style="width:100%; max-width:1100px; height:auto; border-radius:10px;">
 
-<img src="/images/Boxplot.png" alt="Boxplot" style="width:100%; max-width:1100px; height:auto; border-radius:10px;">
+<img src="/images/Shapes.png" alt="Subcortical shape signatures" style="width:100%; max-width:1100px; height:auto; border-radius:10px;">
+
+<img src="/images/Volumes.png" alt="Subcortical volume signatures" style="width:100%; max-width:1100px; height:auto; border-radius:10px;">
 
 ## Overview
-Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC) frequently co-occur in late life, but their *independent vs. combined* neurodegeneration patterns are still being clarified. In this project, we used **voxel-wise deformation-based morphometry (DBM)** on **ex-vivo MRI (N=912)** from a community-based autopsy cohort to map **brain morphometry patterns** across four pathology groups (AD± / LATE±), while **controlling for other comorbid neuropathologies, demographics, and scanner**.
+Deep gray matter structures are impacted early in aging-related neuropathologies, but these pathologies often **co-occur**, making it hard to isolate their independent effects. In this project, we combined **autopsy-confirmed neuropathology** with **ex-vivo MRI** to quantify **volume loss** and **localized shape deformation** across key subcortical structures in a large community-based cohort.
+
+## What I did
+- Performed **multi-structure segmentation and volumetry** on ex-vivo MRI.
+- Conducted **vertex-wise shape analysis** using SPHARM-PDM to map localized inward deformation patterns.
+- Ran **permutation-based regression (PALM)** to estimate **independent** associations of multiple neuropathologies with structure-specific volume and shape metrics, controlling for demographics, scanner, and postmortem intervals.
 
 ## Key findings
-- **AD+LATE-** and **AD−LATE+** each showed less tissue primarily in **medial temporal lobe** structures (overlapping signatures).
-- **Mixed AD+LATE+** showed **more widespread** tissue loss across temporal, frontal, and parietal regions-consistent with additive/synergistic neurodegeneration.
-- **LATE+** was associated with a **smaller anterior hippocampus** compared to AD+ alone, and **LATE stage increases** showed a stronger relationship with hippocampal shrinkage than ADNC severity increases.
-- Patterns were **also present but less pronounced in participants without dementia**.
+- **Tangles** showed broad, independent associations with structural abnormalities across all deep gray matter structures.
+- **LATE-NC** was independently associated with abnormalities in the **hippocampus and amygdala** (with additional localized shape effects in nucleus accumbens).
+- **Atherosclerosis** showed independent associations with **hippocampal** abnormalities.
+- **Gross infarcts** showed independent associations with the **caudate**.
+- Shape analysis revealed **distinct spatial “signatures”** that help disentangle mixed pathologies beyond what volume alone captures.
 
 ## Resources
 
-**ISMRM 2024** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)  
-**AAIC 2024** · [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)
+**Human Brain Mapping 2025** · [Paper](https://pubmed.ncbi.nlm.nih.gov/40580018/)
+**ISMRM 2023** · [Abstract](https://archive.ismrm.org/2023/2664.html)  
+**AAIC 2023** · [Abstract](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.075772)
 
