@@ -30,3 +30,9 @@ Deep gray matter structures are impacted early in aging-related neuropathologies
 **ISMRM 2023** · [Abstract](https://archive.ismrm.org/2023/2664.html)  
 **AAIC 2023** · [Abstract](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.075772)
 
+
+
+**ISMRM 2024** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)  
+**AAIC 2024** · [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)
+**ISMRM 2024** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)  
+**AAIC 2024** · [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)
