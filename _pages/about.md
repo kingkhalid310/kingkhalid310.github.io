@@ -17,7 +17,7 @@ My research focuses on **autopsy-confirmed MRI, PET, and blood-based biomarkers*
 
 ## What I do
 
-Broadly, I develop **machine learning models** and **method pipelines** that link **in-vivo and ex-vivo MRI** with **neuropathology** and **cognition**, with the goal of building deployable biomarkers that generalize across **scanners, sites, and cohorts**. [**Check out our Tangles Marker!**](https://kingkhalid310.github.io/portfolio/portfolio-1/) For related work from our lab, see **ARTS** **[[Paper]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70430)** **[[Software]](https://www.nitrc.org/projects/arts)** (in-vivo MRI marker for arteriolosclerosis)] and **MARBLE** **[[Paper]](https://archive.ismrm.org/2025/0872.html)** (in-vivo MRI marker for LATE).
+Broadly, I develop **machine learning models** and **method pipelines** that link **in-vivo and ex-vivo MRI** with **neuropathology** and **cognition**, with the goal of building deployable biomarkers that generalize across **scanners, sites, and cohorts**. [**Check out our Tangles Marker!**](https://kingkhalid310.github.io/portfolio/portfolio-1/) For related work from our lab, see **ARTS** [[Paper]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70430) [[Software]](https://www.nitrc.org/projects/arts) (in-vivo MRI marker for arteriolosclerosis)] and **MARBLE** [[Paper]](https://archive.ismrm.org/2025/0872.html) (in-vivo MRI marker for LATE).
 
 This includes work on:
 - MRI‑based markers of **neurofibrillary tangles**, translating autopsy‑grounded signatures into tools that can be used in living cohorts. 
