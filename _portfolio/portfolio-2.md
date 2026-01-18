@@ -6,6 +6,8 @@ collection: portfolio
 
 <img src="/images/DBMAssociationwithADandLATE.png" alt="Brain Morphometry Patterns of Mixed AD and LATE" style="width:100%; max-width:1100px; height:auto; border-radius:10px;">
 
+<img src="/images/Boxplot.png" alt="Boxplot" style="width:100%; max-width:1100px; height:auto; border-radius:10px;">
+
 ## Overview
 Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC) frequently co-occur in late life, but their *independent vs. combined* neurodegeneration patterns are still being clarified. In this project, we used **voxel-wise deformation-based morphometry (DBM)** on **ex-vivo MRI (N=912)** from a community-based autopsy cohort to map **brain morphometry patterns** across four pathology groups (AD± / LATE±), while **controlling for other comorbid neuropathologies, demographics, and scanner**.
 
