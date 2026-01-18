@@ -23,7 +23,7 @@ Deep gray matter structures are impacted early in aging-related neuropathologies
 - **Atherosclerosis** showed independent associations with **hippocampal** abnormalities.
 - **Gross infarcts** showed independent associations with the **caudate**.
 - Shape analysis revealed **distinct spatial “signatures”** that help disentangle mixed pathologies beyond what volume alone captures.
-- Volume and shape analyses converged on the same core pathology–structure associations, while shape analysis added the spatial **‘deformation signatures’** and **revealed a few additional pathology links beyond what volume alone captured**.
+- **Volume and shape analyses** converged on the same **core pathology–structure associations**, while **shape analysis** added **spatial “deformation signatures”** and revealed **additional pathology links** beyond what **volume alone** captured.
 
 ## Resources
 
