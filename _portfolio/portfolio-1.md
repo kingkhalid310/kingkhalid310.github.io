@@ -25,3 +25,4 @@ A scalable, MRI-based tangles score can help **stratify participants**, **track 
 **ISMRM 2022** · [Abstract](https://archive.ismrm.org/2022/0718.html)  
 **AAIC 2022** · [Abstract](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.066142)
 
+For related work from our lab, see **ARTS** **[[Paper]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70430)** **[[Software]](https://www.nitrc.org/projects/arts)** (in-vivo MRI marker for arteriolosclerosis)] and **MARBLE** **[[Paper]](https://archive.ismrm.org/2025/0872.html)** (in-vivo MRI marker for LATE).
