@@ -27,7 +27,7 @@ Deep gray matter structures are impacted early in aging-related neuropathologies
 
 ## Resources
 
-**Human Brain Mapping 2025** · [Abstract](https://pubmed.ncbi.nlm.nih.gov/40580018/)  
+**Human Brain Mapping 2025** · [Paper](https://pubmed.ncbi.nlm.nih.gov/40580018/)  
 **ISMRM 2023** · [Abstract](https://archive.ismrm.org/2023/2664.html)  
 **AAIC 2023** · [Abstract](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.075772)  
 
