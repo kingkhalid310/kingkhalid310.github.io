@@ -18,3 +18,10 @@ This visual summary illustrates my end-to-end workflow for building an **in-vivo
 
 ## Why it matters
 A scalable, MRI-based tangles score can help **stratify participants**, **track neurodegeneration**, and support **clinical trial enrichment**—especially when PET or invasive measures are limited.
+
+
+## Abstracts
+
+**ISMRM 2022** · [Abstract](https://archive.ismrm.org/2022/0718.html)  
+**AAIC 2022** · [Abstract](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.066142)
+
