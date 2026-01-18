@@ -16,5 +16,6 @@ Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-r
 - Patterns were **also present but less pronounced in participants without dementia** (see supplemental figures). :contentReference[oaicite:4]{index=4}
 
 ## Resources
-- **ISMRM Abstract:** [ISMRM Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)
-- **AAIC Abstract:** [AAIC Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)
+**ISMRM 2024:** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)
+**AAIC 2024:** · [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)
+
