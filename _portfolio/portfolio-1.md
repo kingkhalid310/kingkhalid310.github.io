@@ -10,7 +10,7 @@ collection: portfolio
 This visual summary illustrates my end-to-end workflow for building an **in-vivo MRI marker of neurofibrillary tangles**. The central idea is to **discover pathology-anchored imaging signatures in an autopsy cohort**, train and refine models on **ex-vivo MRI** (where pathology is known), and then **translate those signatures to in-vivo MRI** so the marker can be used in living cohorts.
 
 ## Pipeline (left → right)
-- **Multimodal discovery:** identify candidate imaging features and biomarker/pathology correlates to define hypothesis-driven signatures. [**[Volume and Shape patterns](https://khalid-saifullah.com/portfolio/portfolio-3/)**] [**[AD and LATE patterns](https://khalid-saifullah.com/portfolio/portfolio-2/)**]
+- **Multimodal discovery:** identify candidate imaging features and biomarker/pathology correlates to define hypothesis-driven signatures. [[Volume and Shape patterns](https://khalid-saifullah.com/portfolio/portfolio-3/)] [[AD and LATE patterns](https://khalid-saifullah.com/portfolio/portfolio-2/)]
 - **Ex-vivo ML model training:** train models using ex-vivo MRI features (e.g., morphometry/DTI/R2/WMH and related measures), with careful preprocessing and feature selection to predict tangles burden.
 - **In-vivo → ex-vivo translation:** generate and QC in-vivo features and map them onto the ex-vivo feature space to enable consistent scoring across modalities.
 - **Marker deployment:** package the pipeline so an **in-vivo MRI input** yields a **tangles score**.
