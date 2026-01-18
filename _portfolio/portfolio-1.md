@@ -1,6 +1,6 @@
 ---
 title: "In-Vivo MRI Tangles Marker"
-excerpt: "Autopsy-validated pipeline for an in-vivo MRI marker of neurofibrillary tangles.<br/><img src='/images/VisualSummary.png' alt='In-Vivo MRI Tangles Marker visual summary'>"
+excerpt: "Autopsy-confirmed pipeline for an in-vivo MRI marker of neurofibrillary tangles.<br/><img src='/images/VisualSummary.png' alt='In-Vivo MRI Tangles Marker visual summary'>"
 collection: portfolio
 ---
 
