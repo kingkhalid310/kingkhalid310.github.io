@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Neurofibrillary Tangles Prediction Based on MRI<br />Alzheimer\u2019s Association International Conference (AAIC) 2022; San Diego, CA, USA",
-    32.7174202,
-    -117.162772
+    "Neurofibrillary Tangles Prediction Based on MRI<br />International Society for Magnetic Resonance in Medicine (ISMRM) 2022; London, UK",
+    51.5074456,
+    -0.1277653
   ],
   [
     "Morphometry Patterns of Alzheimer's and LATE Neuropathology<br />Alzheimer\u2019s Association International Conference (AAIC) 2024; Philadelphia, PA, USA",
