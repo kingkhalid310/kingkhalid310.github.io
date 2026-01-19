@@ -20,7 +20,7 @@ redirect_from:
   <br>
 
   <img src="/images/AAIC_2024_RUSH_IIT.jpeg" width="600" />
-  <p><em>Social gathering during AAIC 2024.</em></p>
+  <p><em>Social gathering with Rush People during AAIC 2024.</em></p>
   <br>
 
   <img src="/images/Lab_Fun_Time.jpeg" width="600" />
