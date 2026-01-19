@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo-KS3.jpeg"
+  avatar           : "Photo-KS4.jpeg"
   name             : "Khalid Saifullah"
   pronouns         : # example: "she/her"  
   bio              : "Biomed Engr PhD Candidate @Illinois Tech <br> Alzheimer’s | Neuroimaging | Machine Learning"
