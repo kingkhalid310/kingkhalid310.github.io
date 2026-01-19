@@ -19,6 +19,7 @@ Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-r
 
 ## Resources
 
-**ISMRM 2024** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)  
-**AAIC 2024** · [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)
+**ISMRM 2024** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)   · Watch my talk in ISMRM 2024](https://youtu.be/MF4y3kEPtwg?si=OVVT7kmvQSX2d7gH)  
+**AAIC 2024** · [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)  
+
 
