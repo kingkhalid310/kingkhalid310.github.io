@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in **Biomedical Engineering (concentration in Medical Imaging)** at **Illinois Institute of Technology**, working under the supervision of **[Prof. Konstantinos Arfanakis](https://www.iit.edu/directory/people/konstantinos-arfanakis)** in the **[MRIIT](https://www5.iit.edu/~mri/Home.html)** Lab, which is part of the **Medical Imaging & Artificial Intelligence Research Center**, and collaborating with the **[Rush Alzheimer’s Disease Center](https://www.rushu.rush.edu/research-rush-university/departmental-research/rush-alzheimers-disease-center)** on age-related neuropathologies. Previously, I completed my BSc in Electrical and Electronic Engineering at [Islamic University of Technology](https://iutoic-dhaka.edu/), Bangladesh, where I conducted my undergraduate thesis under the supervision of [Prof. Golam Sarowar](https://eee.iutoic-dhaka.edu/profile/asim/education).
 
-My research focuses on **autopsy-confirmed MRI, PET, and blood-based biomarkers** to characterize:
+My research focuses on **MRI, PET, and blood-based biomarkers anchored to autopsy-confirmed pathology** to characterize:
 - Alzheimer’s disease neuropathologic change (**ADNC**)
 - Limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (**LATE-NC**)
 - **Cerebrovascular diseases** like Arteriolosclerosis, Atherosclerosis and Cerebral Amyloid Angiopathy (CAA)
