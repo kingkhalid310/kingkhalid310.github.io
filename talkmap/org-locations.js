@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Neurofibrillary Tangles Prediction Based on MRI<br />International Society for Magnetic Resonance in Medicine (ISMRM) 2022; London, UK",
+    "Neurofibrillary Tangles Prediction Based on MRI<br />Alzheimer\u2019s Association International Conference (AAIC) 2022; London, UK",
     51.5074456,
     -0.1277653
   ],
