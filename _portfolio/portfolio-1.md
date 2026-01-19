@@ -12,7 +12,7 @@ This visual summary illustrates my end-to-end workflow for building an **in-vivo
 ## Pipeline (left → right)
 - **Multimodal discovery:** identify candidate imaging features and biomarker/pathology correlates to define hypothesis-driven signatures. [[Volume and Shape patterns](https://khalid-saifullah.com/portfolio/portfolio-3/)] [[AD and LATE patterns](https://khalid-saifullah.com/portfolio/portfolio-2/)]
 - **Ex-vivo ML model training:** train models using ex-vivo MRI features (e.g., morphometry/DTI/R2/WMH and related measures), with careful preprocessing and feature selection to predict tangles burden. [[See this](https://khalid-saifullah.com/talks/2022-07-31-talk-2)]
-- **In-vivo → ex-vivo translation:** generate and QC in-vivo features and map them onto the ex-vivo feature space to enable consistent scoring across modalities.
+- **In-vivo → ex-vivo translation:** generate and QC in-vivo features and map them onto the ex-vivo feature space to enable consistent scoring across modalities. [[For Reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC3664651/)]
 - **Marker deployment:** package the pipeline so an **in-vivo MRI input** yields a **tangles score**.
 - **Testing:** validate the marker in external and/or independent datasets (e.g., Rush / ADNI / NACC) and evaluate associations with **cognition**, **blood biomarkers**, and **tau-PET**.
 
