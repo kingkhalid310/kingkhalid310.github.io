@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Photo-KS7.jpeg"
-  name             : "Khalid Saifullah"
+  name             : "Khalid Saifullah, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow @MGH & Harvard Medical School <br> Neuropathology | Neuroimaging | Machine Learning"
   location         : "Boston, MA, USA"

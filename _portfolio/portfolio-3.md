@@ -2,6 +2,7 @@
 title: "Subcortical Volume & Shape Signatures"
 excerpt: "Autopsy-linked ex vivo MRI reveals pathology-specific volume and shape signatures across deep gray matter structures.<br/><img src='/images/Shapes.png' alt='Subcortical volume and shape signatures'>"
 collection: portfolio
+order: 4
 ---
 
 

@@ -2,6 +2,7 @@
 title: "Brain Morphometry Patterns of Mixed AD and LATE"
 excerpt: "Autopsy-confirmed ex vivo MRI DBM reveals distinct and additive patterns in ADNC and LATE-NC.<br/><img src='/images/DBMAssociationwithADandLATE.png' alt='Brain morphometry patterns of mixed AD and LATE'>"
 collection: portfolio
+order: 3
 ---
 
 <img src="/images/DBMAssociationwithADandLATE.png" alt="Brain Morphometry Patterns of Mixed AD and LATE" style="width:100%; max-width:1100px; height:auto; border-radius:10px;">
@@ -21,4 +22,3 @@ Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-r
 
 **ISMRM 2024** · [Abstract](https://archive.ismrm.org/2024/0664_AKlGUqRDA.html)   · [Watch my talk in ISMRM 2024](https://youtu.be/MF4y3kEPtwg?si=OVVT7kmvQSX2d7gH)  
 **AAIC 2024** · [Abstract](https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/)  
-
