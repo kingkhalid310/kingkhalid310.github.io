@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in **Biomedical Engineering (concentration in Medical Imaging)** at **Illinois Institute of Technology**, working under the supervision of **[Prof. Konstantinos Arfanakis](https://www.iit.edu/directory/people/konstantinos-arfanakis)** in the **[MRIIT](https://www5.iit.edu/~mri/Home.html)** Lab, which is part of the **Medical Imaging & Artificial Intelligence Research Center**, and collaborating with the **[Rush Alzheimer’s Disease Center](https://www.rushu.rush.edu/research-rush-university/departmental-research/rush-alzheimers-disease-center)** on age-related neuropathologies. Previously, I completed my BSc in Electrical and Electronic Engineering at [Islamic University of Technology](https://iutoic-dhaka.edu/), Bangladesh, where I conducted my undergraduate thesis under the supervision of [Prof. Golam Sarowar](https://eee.iutoic-dhaka.edu/profile/asim/education).
+I am currently a **Research Fellow** in the **[SPiN Lab](https://www.perosalab.com/)** at the **J. Philip Kistler Stroke Research Center**, Department of Neurology, **Massachusetts General Hospital and Harvard Medical School**. I work with **[Valentina Perosa, MD, PhD](https://researchers.mgh.harvard.edu/profile/22290099/Valentina-Perosa)** and **[Steven Greenberg, MD, PhD](https://researchers.mgh.harvard.edu/profile/3732030/Steven-Greenberg)**.
+
+My doctoral research in **Biomedical Engineering (concentration in Medical Imaging)** at **Illinois Institute of Technology** was conducted under the supervision of **[Prof. Konstantinos Arfanakis](https://www.iit.edu/directory/people/konstantinos-arfanakis)** in the **[MRIIT](https://www5.iit.edu/~mri/Home.html)** Lab, part of the **Medical Imaging & Artificial Intelligence Research Center**, in collaboration with the **[Rush Alzheimer’s Disease Center](https://www.rushu.rush.edu/research-rush-university/departmental-research/rush-alzheimers-disease-center)**. Previously, I completed my BSc in Electrical and Electronic Engineering at [Islamic University of Technology](https://iutoic-dhaka.edu/), Bangladesh, where I conducted my undergraduate thesis under the supervision of [Prof. Golam Sarowar](https://eee.iutoic-dhaka.edu/profile/asim/education).
 
 My research focuses on **MRI, PET, and blood-based biomarkers anchored to autopsy-confirmed pathology** to characterize:
 - Alzheimer’s disease neuropathologic change (**ADNC**)
@@ -54,5 +56,4 @@ I’m also constantly searching for the best chai or qahwa spots in the city; if
 
 ## Connect
 
-I am currently in the final stages of my PhD (**expected defense: April 2026**) and am actively seeking postdoctoral opportunities in multimodal neuroimaging and biomarkers.
-
+I welcome opportunities to connect and collaborate on multimodal neuroimaging, neuropathology, and biomarker development.
