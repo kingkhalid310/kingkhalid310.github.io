@@ -12,7 +12,7 @@ I am currently a **Research Fellow** in the **[SPiN Lab](https://www.perosalab.c
 
 My doctoral research in **Biomedical Engineering (concentration in Medical Imaging)** at **Illinois Institute of Technology** was conducted under the supervision of **[Prof. Konstantinos Arfanakis](https://www.iit.edu/directory/people/konstantinos-arfanakis)** in the **[MRIIT](https://www5.iit.edu/~mri/Home.html)** Lab, part of the **Medical Imaging & Artificial Intelligence Research Center**, in collaboration with the **[Rush Alzheimer’s Disease Center](https://www.rushu.rush.edu/research-rush-university/departmental-research/rush-alzheimers-disease-center)**. Previously, I completed my BSc in Electrical and Electronic Engineering at [Islamic University of Technology](https://iutoic-dhaka.edu/), Bangladesh, where I conducted my undergraduate thesis under the supervision of [Prof. Golam Sarowar](https://eee.iutoic-dhaka.edu/profile/asim/education).
 
-My research focuses on **MRI, PET, and blood-based biomarkers anchored to autopsy-confirmed pathology** to characterize:
+My research integrates **in vivo and ex vivo MRI, PET, electronic health records, and blood-based biomarkers** with **autopsy-confirmed neuropathology** to characterize:
 - Alzheimer’s disease neuropathologic change (**ADNC**)
 - Limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (**LATE-NC**)
 - **Cerebrovascular diseases** like Arteriolosclerosis, Atherosclerosis and Cerebral Amyloid Angiopathy (CAA)
