@@ -1,5 +1,5 @@
 ---
-title: "An MRI-Based In-Vivo Marker of Neurofibrillary Tangles"
+title: "An MRI-Based In Vivo Marker of Neurofibrillary Tangles"
 collection: publications
 category: inreview
 permalink: /publication/2026-4-01-paper-title-number-2
@@ -11,6 +11,6 @@ paperurl: # 'https://academicpages.github.io/files/paper3.pdf'
 citation: # 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-Neurofibrillary tangles (NFTs) are a hallmark Alzheimer’s disease (AD) pathology linked to neurodegeneration and cognitive decline. While tau-PET and blood tau assays support in-vivo detection, PET is costly and blood markers lack regional specificity. MRI is noninvasive and widely available, and it offers measures of not only neurodegeneration, but also cerebrovascular abnormalities, typically inaccessible to PET or blood markers. We developed an in-vivo MRI-based classifier of Braak NFT staging using machine learning trained on ex-vivo MRI and neuropathology data from community-based older adults.
+Neurofibrillary tangles (NFTs) are a hallmark Alzheimer’s disease (AD) pathology linked to neurodegeneration and cognitive decline. While tau-PET and blood tau assays support in vivo detection, PET is costly and blood markers lack regional specificity. MRI is noninvasive and widely available, and it offers measures of not only neurodegeneration, but also cerebrovascular abnormalities, typically inaccessible to PET or blood markers. We developed an in vivo MRI-based classifier of Braak NFT staging using machine learning trained on ex vivo MRI and neuropathology data from community-based older adults.
 
 **For more details, [check this out](https://kingkhalid310.github.io/portfolio/portfolio-1/)**

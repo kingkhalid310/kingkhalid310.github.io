@@ -1,5 +1,5 @@
 ---
-title: "Developing Diagnostic Criteria of Arteriolosclerosis"
+title: "Developing Diagnostic Criteria for Cerebral Arteriolosclerosis"
 excerpt: "Developing clinically meaningful diagnostic criteria for cerebral arteriolosclerosis by integrating neuropathology, neuroimaging, and clinical data."
 collection: portfolio
 ---
