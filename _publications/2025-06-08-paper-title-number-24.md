@@ -2,7 +2,7 @@
 title: "Older Age and Heart Disease are Associated with a Faster Increase in ARTS"
 collection: publications
 category: conferences
-permalink: /publication/2026-06-14-paper-title-number-4
+permalink: /publication/2026-06-14-paper-title-number-24
 excerpt: "Poster Presentation"
 date: 2026-06-14
 venue: "Organization for Human Brain Mapping (OHBM)"

@@ -2,7 +2,7 @@
 title: "Plasma Neurofilament Light Links to Brain Tissue Loss, Ventricular Enlargement, and Elevated White Matter Hyperintensities"
 collection: publications
 category: conferences
-permalink: /publication/2025-07-27-paper-title-number-4
+permalink: /publication/2025-07-27-paper-title-number-10
 excerpt: "Poster Presentation"
 date: 2025-07-27
 venue: "Alzheimer's Association International Conference (AAIC)"
