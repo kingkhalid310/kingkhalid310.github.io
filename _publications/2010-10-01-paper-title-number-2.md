@@ -1,16 +1,16 @@
 ---
-title: "Brain Morphometry Patterns in the Presence of Alzheimer’s and/or Limbic-Predominant Age-Related TDP-43 Encephalopathy (LATE) Neuropathology"
+title: "Brain Morphometry Patterns in the Presence of Alzheimer’s Disease and/or LATE Neuropathologic Changes"
 collection: publications
-category: inreview
-permalink: /publication/2026-2-01-paper-title-number-1
-excerpt: "This paper is about to be submitted to Alzheimer's & Dementia."
-date: 2026-2-01
-venue: # "Alzheimer's & Dementia"
-slidesurl: # 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: # 'https://academicpages.github.io/files/paper2.pdf'
-citation: # 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: manuscripts
+permalink: /publication/2026-08-01-paper-title-number-2
+excerpt: 'Using deformation-based morphometry on ex vivo MRI from 912 community-based older adults, we identified distinct and overlapping brain morphometry patterns associated with Alzheimer’s disease and LATE neuropathologic changes.'
+date: 2026-08-01
+venue: "Alzheimer's & Dementia"
+#slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+paperurl: /files/paper2.pdf
+citation: 'Saifullah K, Ridwan AR, Evia AM, et al. Brain morphometry patterns in the presence of Alzheimer’s disease and/or LATE neuropathologic changes. Alzheimer’s Dement. 2026;22:e71719. doi:10.1002/alz.71719.'
 ---
 
-Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATENC) are common in older adults, yet our understanding of the differences in brain morphometry patterns when one or both pathologies are present is still incomplete. We used voxel-wise deformation-based morphometry (DBM) on ex vivo MRI from 912 community-based older adults to compare brain morphometry across neuropathological groups defined by the presence or absence of ADNC and LATENC. Group comparisons were performed using permutation-based linear regression, adjusting for other pathologies and demographics. Both the AD+LATE- and AD-LATE+ groups showed less tissue in the medial temporal lobe compared to the AD-LATE- group. The AD+LATE+ group demonstrated less tissue across more regions in the temporal, frontal, and parietal lobes. The AD-LATE+ group exhibited a smaller anterior hippocampus than the AD+LATE- group. The above findings were similar but less pronounced in individuals without dementia. Furthermore, increments in LATENC stages (0, 1, 2, 3) were associated with smaller hippocampi than increments in ADNC severity (none, low, intermediate, high), independent of the severity of comorbid ADNC or comorbid LATENC, respectively. These findings reveal similarities and differences in brain morphometry patterns in the presence of ADNC and/or LATENC, with implications for diagnosis in older adults.
+Alzheimer’s disease neuropathologic change (ADNC) and limbic-predominant age-related transactive response DNA-binding protein 43 kDa (TDP-43) encephalopathy neuropathologic change (LATENC) are common in older adults, yet differences in brain morphometry patterns when one or both pathologies are present remain unclear. We used deformation-based morphometry on ex vivo MRI from 912 community-based older adults to compare groups with or without ADNC and/or LATENC. AD+LATE- and AD-LATE+ groups showed less tissue in the medial temporal lobe than AD-LATE-. The AD+LATE+ group had less tissue in temporal, frontal, and parietal lobes. The AD-LATE+ group exhibited smaller anterior hippocampi than the AD+LATE- group. These findings were less pronounced in individuals without dementia. Increments in LATENC stages were associated with smaller hippocampi than increments in ADNC severity, independent of the severity of comorbid ADNC or LATENC, respectively. These findings reveal distinct and overlapping brain morphometry patterns associated with ADNC and/or LATENC, with possible implications for diagnosis in older adults.
 
 **For more details, [check this out](https://khalid-saifullah.com/portfolio/portfolio-2/)**
