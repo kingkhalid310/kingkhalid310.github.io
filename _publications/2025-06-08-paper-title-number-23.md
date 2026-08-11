@@ -3,7 +3,7 @@ title: "Older Age and Heart Disease are Associated with a Faster Increase in ART
 collection: publications
 category: conferences
 permalink: /publication/2026-05-09-paper-title-number-4
-excerpt: "Submitted / Under Review"
+excerpt: "Poster Presentation"
 date: 2026-05-09
 venue: "International Society for Magnetic Resonance in Medicine (ISMRM)"
 paperurl: #https://pmc.ncbi.nlm.nih.gov/articles/PMC11713921/
