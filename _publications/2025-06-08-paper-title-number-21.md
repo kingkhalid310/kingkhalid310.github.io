@@ -2,7 +2,7 @@
 title: "An MRI-Based Marker of Braak Stage"
 collection: publications
 category: conferences
-permalink: /publication/2026-07-12-paper-title-number-4
+permalink: /publication/2026-07-12-paper-title-number-21
 excerpt: "Poster Presentation"
 date: 2026-07-12
 venue: "Alzheimer's Association International Conference (AAIC)"

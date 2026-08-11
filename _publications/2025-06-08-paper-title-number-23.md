@@ -2,7 +2,7 @@
 title: "Older Age and Heart Disease are Associated with a Faster Increase in ARTS, an In Vivo Marker of Cerebral Arteriolosclerosis"
 collection: publications
 category: conferences
-permalink: /publication/2026-05-09-paper-title-number-4
+permalink: /publication/2026-05-09-paper-title-number-23
 excerpt: "Poster Presentation"
 date: 2026-05-09
 venue: "International Society for Magnetic Resonance in Medicine (ISMRM)"
