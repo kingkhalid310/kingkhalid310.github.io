@@ -56,9 +56,9 @@ I’m also constantly searching for the best chai or qahwa spots in the city; if
 
 ## Building BIBHA
 
-Outside my formal research role, I’m building **[BIBHA Institute](/portfolio/portfolio-5/)**—a small but ambitious effort to connect research talent in Bangladesh with mentors and collaborators around brain health and aging. If the idea resonates with you, I’d love for you to explore it, help shape it, or join the founding network.
+Outside my formal research role, I’m building **BIBHA Institute**—a small but ambitious effort to connect research talent in Bangladesh with mentors and collaborators around brain health and aging. If the idea resonates with you, I’d love for you to explore it, help shape it, or join the founding network.
 
-[**Discover why I’m building BIBHA →**](/portfolio/portfolio-5/) · [**Explore or join BIBHA Institute ↗**](https://bibha.medics-global.com/#join)
+[**Read the founder’s note**](/portfolio/portfolio-5/) · [**Explore or join BIBHA Institute**](https://bibha.medics-global.com/#join)
 
 ---
 
