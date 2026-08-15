@@ -1,14 +1,19 @@
 ---
 layout: archive
-title: "Current Projects"
+title: "Research & Initiatives"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+{% include bibha-feature.html variant="projects" %}
+
+<h2 class="archive__subtitle bibha-research-heading">Current Research</h2>
 
 {% assign ordered_projects = site.portfolio | sort: "order" %}
 {% for post in ordered_projects %}
-  {% include archive-single.html %}
+  {% unless post.title == "BIBHA Institute" %}
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}

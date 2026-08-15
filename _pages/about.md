@@ -42,13 +42,7 @@ I’m a visual problem-solver — I think in sketches. Before I code, I draw the
 
 ---
 
-## Building BIBHA Institute
-
-One project especially close to my heart is **[BIBHA Institute](https://bibha.medics-global.com/)**—a long-term dream I am developing outside my formal research role. BIBHA is an independent initiative in formation, created to connect Bangladesh-centered brain-health questions and research talent with mentors, methods, and collaborators worldwide.
-
-Its scientific focus is computational research on brain health and aging, while recognizing the vascular, metabolic, behavioral, social, and other whole-person factors that shape the brain across the life course.
-
-[**Explore BIBHA Institute →**](https://bibha.medics-global.com/)
+{% include bibha-feature.html variant="home" %}
 
 ---
 

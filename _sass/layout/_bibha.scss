@@ -1,0 +1,401 @@
+/* ==========================================================================
+   BIBHA FOUNDER'S INITIATIVE
+   ========================================================================== */
+
+.bibha-feature {
+  --bibha-ink: #111b18;
+  --bibha-forest: #123f34;
+  --bibha-green: #1f6a54;
+  --bibha-lime: #d6ef8d;
+  --bibha-cream: #fbfaf6;
+  --bibha-line: #d7d8cf;
+  --bibha-muted: #66706b;
+
+  display: grid;
+  grid-template-columns: minmax(0, 1.08fr) minmax(240px, 0.92fr);
+  margin: 2.25em 0 3em;
+  color: var(--bibha-ink);
+  background: var(--bibha-cream);
+  border: 1px solid var(--bibha-line);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 18px 50px rgba(18, 63, 52, 0.09);
+
+  a,
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.bibha-feature__copy {
+  padding: clamp(28px, 5vw, 58px);
+}
+
+.bibha-feature__eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin: 0 0 1.7em !important;
+  color: var(--bibha-green);
+  font-size: 0.7rem !important;
+  font-weight: 800;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+
+  span {
+    width: 8px;
+    height: 8px;
+    background: #5cbd7a;
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgba(92, 189, 122, 0.15);
+  }
+}
+
+.bibha-feature__brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 1.5em;
+
+  > span:last-child {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+  }
+
+  strong {
+    letter-spacing: 0.15em;
+    font-size: 0.8rem;
+  }
+
+  small {
+    margin-top: 5px;
+    color: var(--bibha-muted);
+    font-size: 0.55rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+}
+
+.bibha-feature__mark {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  color: var(--bibha-lime);
+  background: var(--bibha-forest);
+  border-radius: 50% 50% 50% 12%;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+}
+
+.bibha-feature h2 {
+  max-width: 650px;
+  margin: 0;
+  padding: 0;
+  color: var(--bibha-ink);
+  border: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2rem, 4vw, 3.65rem);
+  font-weight: 400;
+  letter-spacing: -0.04em;
+  line-height: 0.98;
+}
+
+.bibha-feature__lede {
+  max-width: 650px;
+  margin: 1.4em 0 0 !important;
+  color: #4e5a55;
+  font-size: 1rem !important;
+  line-height: 1.65;
+}
+
+.bibha-feature__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 1.8em;
+}
+
+.bibha-feature__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0 17px;
+  border: 1px solid var(--bibha-forest);
+  border-radius: 3px;
+  font-size: 0.75rem;
+  font-weight: 750;
+  transition: transform 0.2s ease, background 0.2s ease;
+
+  &:hover {
+    transform: translateY(-1px);
+  }
+}
+
+.bibha-feature__button--primary,
+.bibha-feature__button--primary:visited {
+  color: #fff;
+  background: var(--bibha-forest);
+}
+
+.bibha-feature__button--primary:hover {
+  color: #fff;
+  background: #1b5847;
+}
+
+.bibha-feature__button--secondary,
+.bibha-feature__button--secondary:visited {
+  color: var(--bibha-forest);
+  background: transparent;
+}
+
+.bibha-feature__button--secondary:hover {
+  color: var(--bibha-forest);
+  background: #efeee7;
+}
+
+.bibha-feature__visual {
+  position: relative;
+  min-height: 430px;
+  overflow: hidden;
+  color: #fff;
+  background-color: var(--bibha-forest);
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.045) 1px, transparent 1px);
+  background-size: 42px 42px;
+}
+
+.bibha-feature__orbit {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border: 1px solid rgba(214, 239, 141, 0.2);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bibha-feature__orbit--one {
+  width: 285px;
+  height: 285px;
+}
+
+.bibha-feature__orbit--two {
+  width: 410px;
+  height: 410px;
+}
+
+.bibha-feature__hub {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 116px;
+  height: 116px;
+  color: var(--bibha-forest);
+  background: #f3f0e5;
+  border: 1px solid var(--bibha-lime);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 20px 55px rgba(0, 0, 0, 0.3);
+
+  strong {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.45rem;
+  }
+
+  small {
+    margin-top: 2px;
+    font-size: 0.5rem;
+    letter-spacing: 0.17em;
+    text-transform: uppercase;
+  }
+}
+
+.bibha-feature__node {
+  position: absolute;
+  z-index: 2;
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 50%;
+  font-size: 0.58rem;
+  font-weight: 800;
+}
+
+.bibha-feature__node--one { top: 20%; left: 13%; }
+.bibha-feature__node--two { top: 18%; right: 12%; }
+.bibha-feature__node--three { right: 16%; bottom: 18%; }
+
+.bibha-feature__route {
+  position: absolute;
+  z-index: 1;
+  width: 32%;
+  height: 1px;
+  background: linear-gradient(90deg, rgba(214, 239, 141, 0.15), var(--bibha-lime));
+  transform-origin: 0;
+}
+
+.bibha-feature__route--one { top: 31%; left: 20%; transform: rotate(28deg); }
+.bibha-feature__route--two { top: 31%; left: 54%; transform: rotate(-28deg); }
+.bibha-feature__route--three { top: 57%; left: 54%; transform: rotate(28deg); }
+
+.bibha-feature__status {
+  position: absolute;
+  right: 18px;
+  bottom: 18px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 10px 13px;
+  background: rgba(9, 35, 29, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.72rem;
+
+  i {
+    width: 8px;
+    height: 8px;
+    background: var(--bibha-lime);
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgba(214, 239, 141, 0.13);
+  }
+}
+
+.bibha-feature__principles {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background: #f4f1e9;
+  border-top: 1px solid var(--bibha-line);
+
+  span {
+    padding: 16px 20px;
+    color: var(--bibha-muted);
+    border-right: 1px solid var(--bibha-line);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    &:last-child {
+      border-right: 0;
+    }
+  }
+
+  b {
+    margin-right: 7px;
+    color: var(--bibha-green);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.82rem;
+  }
+}
+
+.bibha-research-heading {
+  margin-top: 3.5em;
+  color: var(--global-text-color);
+  font-size: 1.55rem;
+  text-transform: none;
+}
+
+.bibha-note-intro {
+  margin: 0 0 2.5em;
+  padding: 1.5em 1.65em;
+  background: #f4f1e9;
+  border-left: 4px solid #1f6a54;
+
+  p:last-child {
+    margin-bottom: 0;
+    color: #4e5a55;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.25rem;
+    line-height: 1.55;
+  }
+}
+
+.bibha-note-intro__eyebrow {
+  margin-bottom: 0.7em !important;
+  color: #1f6a54;
+  font-size: 0.7rem !important;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.bibha-note-closing {
+  margin-top: 2.5em;
+  padding: 1.7em;
+  color: #fff;
+  background: #123f34;
+
+  p {
+    margin-bottom: 1em;
+    color: #fff;
+  }
+
+  a,
+  a:visited {
+    color: #d6ef8d;
+  }
+}
+
+@include breakpoint(max-width $medium) {
+  .bibha-feature {
+    grid-template-columns: 1fr;
+  }
+
+  .bibha-feature__visual {
+    min-height: 330px;
+  }
+
+  .bibha-feature__principles {
+    grid-template-columns: 1fr;
+
+    span {
+      border-right: 0;
+      border-bottom: 1px solid var(--bibha-line);
+
+      &:last-child {
+        border-bottom: 0;
+      }
+    }
+  }
+}
+
+@include breakpoint(max-width $small) {
+  .bibha-feature {
+    margin-left: -0.35em;
+    margin-right: -0.35em;
+  }
+
+  .bibha-feature__copy {
+    padding: 27px 22px 30px;
+  }
+
+  .bibha-feature__visual {
+    min-height: 285px;
+  }
+
+  .bibha-feature__orbit--two {
+    width: 340px;
+    height: 340px;
+  }
+
+  .bibha-feature__actions {
+    flex-direction: column;
+  }
+
+  .bibha-feature__button {
+    width: 100%;
+  }
+}
