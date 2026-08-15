@@ -42,10 +42,6 @@ I’m a visual problem-solver — I think in sketches. Before I code, I draw the
 
 ---
 
-{% include bibha-feature.html variant="home" %}
-
----
-
 ## Beyond the lab
 
 I believe in [Slow Science](http://slow-science.org/) - good questions take time to mature.
@@ -55,6 +51,14 @@ I trust a Matador pen and an A4 paper checklist more than any productivity app.
 Currently, I’m re-reading Austin Kleon’s [Show Your Work!](https://austinkleon.com/show-your-work/) - a personal favorite.
 
 I’m also constantly searching for the best chai or qahwa spots in the city; if you know a great Yemeni café, please send the recommendation my way.
+
+---
+
+## Building BIBHA
+
+Outside my formal research role, I’m building **[BIBHA Institute](/portfolio/portfolio-5/)**—a small but ambitious effort to connect research talent in Bangladesh with mentors and collaborators around brain health and aging. If the idea resonates with you, I’d love for you to explore it, help shape it, or join the founding network.
+
+[**Discover why I’m building BIBHA →**](/portfolio/portfolio-5/) · [**Explore or join BIBHA Institute ↗**](https://bibha.medics-global.com/#join)
 
 ---
 
